@@ -70,7 +70,7 @@ window.addEventListener('scroll', () => {
 const typedTextSpan = document.querySelector('.typed-text');
 const cursorSpan = document.querySelector('.cursor');
 
-const textArray = ['Web Developer', 'Designer', 'Freelancer', 'Photographer'];
+const textArray = ['Blockchain Developer', 'Web Developer', 'App Developer','Animator'];
 const typingDelay = 100;
 const erasingDelay = 50;
 const newTextDelay = 2000;
